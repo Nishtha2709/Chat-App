@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509536947862",
+    "project_id": "plasma-donation-a773b",
+    "storage_bucket": "plasma-donation-a773b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509536947862:android:fc8c9435e301326290fcb7",
+        "android_client_info": {
+          "package_name": "com.NishthaRSainger.plasma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509536947862-3v5glkgajf756sue45bmvr4qpl8s3d73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcoUGcciEbsu8MEIh_D3KPfZ1LAqCt7ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509536947862-3v5glkgajf756sue45bmvr4qpl8s3d73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
